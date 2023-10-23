@@ -1,0 +1,5 @@
+C:\Users\tofiq\Desktop\task\taskstatic\taskstatic\obj\Debug\net6.0\taskstatic.csproj.AssemblyReference.cache
+C:\Users\tofiq\Desktop\task\taskstatic\taskstatic\obj\Debug\net6.0\taskstatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tofiq\Desktop\task\taskstatic\taskstatic\obj\Debug\net6.0\taskstatic.AssemblyInfoInputs.cache
+C:\Users\tofiq\Desktop\task\taskstatic\taskstatic\obj\Debug\net6.0\taskstatic.AssemblyInfo.cs
+C:\Users\tofiq\Desktop\task\taskstatic\taskstatic\obj\Debug\net6.0\taskstatic.csproj.CoreCompileInputs.cache
